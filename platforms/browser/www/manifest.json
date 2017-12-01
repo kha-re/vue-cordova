@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "RandomWord",
+  "short_name": "RandomWord",
+  "version": "co.khare.randomword",
+  "description": "A mobile app for generating random word.",
+  "author": "Amit kumar khare",
+  "icons": [],
+  "start_url": "index.html"
+}
